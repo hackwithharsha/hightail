@@ -1,6 +1,6 @@
 {
   "name": "@hackwithharsha/hightail",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Add tailwind height utility classes",
   "main": "index.js",
   "repository": {
