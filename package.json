@@ -1,0 +1,28 @@
+{
+  "name": "@hackwithharsha/hightail",
+  "version": "1.0.2",
+  "description": "Add tailwind height utility classes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackwithharsha/hightail"
+  },
+  "keywords": [
+    "tailwind",
+    "height",
+    "utility",
+    "classes",
+    "hightail",
+    "tailhigh",
+    "highwind",
+    "windhigh",
+    "heighttail",
+    "tailwind",
+    "height"
+  ],
+  "author": "hackwithharsha@gmail.com, satishpokala124@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^2.0.0"
+  }
+}
